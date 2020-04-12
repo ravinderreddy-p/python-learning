@@ -10,3 +10,4 @@ print(dir(type(countries)))
 print(type(countries['India']))
 print(type(countries['UK']))
 
+
