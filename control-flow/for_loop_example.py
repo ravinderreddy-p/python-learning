@@ -78,3 +78,12 @@ for key in cast:
 # items() returns tuple of key, value pairs.
 for key, value in cast.items():
     print("Actor: {} Role: {} ".format(key, value))
+
+# example: factorial with for() loop
+number = 6
+product = 1
+
+for num in range(2, number + 1):
+    product *= num
+
+print(product)
