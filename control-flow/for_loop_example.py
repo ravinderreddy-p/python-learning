@@ -1,5 +1,10 @@
 # loop is used to iterate, or do something repeatedly over an iterable.
 # An iterable is an object that can return one of it's elements at a time.
+# for() loops are an example of definite iteration.
+# ie., loops body run a predefined number of times.
+# for() loop over a list, executes body once for each element in the list.
+# for() loop using the range() function will execute the number of times
+# specified by the range() function.
 
 # example - 1
 cities = ['new york city', 'mountain view', 'chicago', 'los angeles']
