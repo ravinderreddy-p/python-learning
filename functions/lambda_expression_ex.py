@@ -1,5 +1,7 @@
 # Lambda expression used to create an anonymous functions.
-# ie., function do not have any name.
+# They are not needed later in the code.
+# lambda <args>: <evaluate expression & return>
+# ex: lambda x: x*2 (double the given number)
 
 
 def double_fun(x):
