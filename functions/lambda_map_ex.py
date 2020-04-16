@@ -20,3 +20,6 @@ print(num_avg_list)
 # lambda expression for above get_average()
 num_avg_list_lambda = list(map(lambda num_list: sum(num_list) / len(num_list), numbers))
 print(num_avg_list_lambda)
+
+
+
